@@ -2,6 +2,7 @@
   "name": "@ftbl/session-web",
   "version": "1.0.0",
   "description": "React session management",
+  "main": "dist",
   "scripts": {
     "test": "gulp test",
     "dist": "$(npm bin)/babel lib --out-dir dist",

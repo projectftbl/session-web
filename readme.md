@@ -1,3 +1,3 @@
-### @ftbl/icons
+### @ftbl/session-web
 
-JSX SVG Icons
+React session management.
