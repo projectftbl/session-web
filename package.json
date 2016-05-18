@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/session-web",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React session management",
   "main": "dist/index",
   "scripts": {
