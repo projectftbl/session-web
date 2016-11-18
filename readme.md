@@ -1,3 +1,3 @@
-### @ftbl/session-web
+### @recipher/session-web
 
 React session management.
