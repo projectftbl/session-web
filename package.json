@@ -21,7 +21,6 @@
   "dependencies": {
     "@recipher/component": "^1.1.1",
     "@recipher/form": "^1.4.8",
-    "@recipher/gulp": "^1.6.5",
     "@recipher/icons": "^1.2.6",
     "@recipher/resource": "^1.0.4",
     "@recipher/support": "^1.0.1",
