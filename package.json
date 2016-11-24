@@ -22,7 +22,7 @@
     "@recipher/component": "^1.1.1",
     "@recipher/form": "^1.4.8",
     "@recipher/icons": "^1.2.6",
-    "@recipher/resource": "^1.0.4",
+    "@recipher/resource": "^1.1.0",
     "@recipher/support": "^1.0.1",
     "@recipher/validation": "^1.0.0",
     "color": "^0.11.1",
