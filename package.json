@@ -1,6 +1,6 @@
 {
   "name": "@recipher/session-web",
-  "version": "1.0.10",
+  "version": "1.0.17",
   "description": "React session management",
   "main": "dist/index",
   "scripts": {
@@ -43,7 +43,7 @@
     "redux-saga": "^0.9.5"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.6.4",
+    "@recipher/gulp": "^1.6.4",
     "babel": "^6.3.26",
     "babel-cli": "^6.4.5",
     "babel-core": "^6.4.5",
