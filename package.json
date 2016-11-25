@@ -1,6 +1,6 @@
 {
   "name": "@recipher/session-web",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "description": "React session management",
   "main": "dist/index",
   "scripts": {
